@@ -6,8 +6,8 @@ The City of Kansas City, MO Health Department is engaging diverse communities ac
 Currently, youth are connected to jobs by youth employment counselors from a variety of agencies. Many youth do not have reliable access to the internet and email to find jobs at home, at school, or at libraries, especially in areas with reduced funding for public services. There is often a significant difference in quantities of meaningful job opportunities between neighborhoods in urban areas and applicants in low-opportunity areas are likely to see a lower placement rate. To increase youth employment rates we need to develop a more equitable platform that all KC youth can access.
  
 ## The Team
-Ave Stokes, Communities Creating Opportunity
-Marty Galutia, KCMO Health Commission
+Ave Stokes, Communities Creating Opportunity (avrell@cco.org)
+Marty Galutia, KCMO Health Commission (marty.galutia@kcmo.org)
 
 * Lead...
 Ave Stokes, Communities Creating Opportunity
