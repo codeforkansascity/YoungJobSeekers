@@ -18,7 +18,7 @@ Marty Galutia, KCMO Health Commission
 We have experienced coders in the Brigade ready and willing to help. To incorporate the location and transit functions, we need people with a little more advanced skills. We would love to have designers and some front-end talent to work with the creative team so that the look and feel of the app is engaging to Kansas City’s youth. And we have plenty of room for project managers, UX talent, marketing folks or others who find this use case compelling and are looking for a great project with which to give back to the community, learn new skills, or add a project to their portfolio.
 
 * Designers
-  Anyone with the applicable skill sets.
+* Anyone with the applicable skill sets.
 
 ## How to help
 
