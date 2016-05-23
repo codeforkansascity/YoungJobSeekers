@@ -7,6 +7,7 @@ Currently, youth are connected to jobs by youth employment counselors from a var
  
 ## The Team
 Ave Stokes, Communities Creating Opportunity (avrell@cco.org)
+
 Marty Galutia, KCMO Health Commission (marty.galutia@kcmo.org)
 
 * Lead...
